@@ -56,6 +56,14 @@ http://127.0.0.1:8000
 | GET    | `/pets/{pet_id}` | Get a specific pet by ID |
 | POST   | `/pets`          | Add a new pet            |
 
+Right now you can also check:
+
+Swagger docs: http://127.0.0.1:8000/docs
+
+Redoc docs: http://127.0.0.1:8000/redoc
+
+That’s where you’ll see all your API endpoints in a nice UI.
+
 📄 Example JSON Response
 json
 [

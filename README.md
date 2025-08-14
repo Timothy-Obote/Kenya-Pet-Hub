@@ -74,7 +74,7 @@ json
     "breed": "German Shepherd",
     "age": 2,
     "location": "Nairobi",
-    "price": 15000
+    "price": 20000
   }
 ]
 
